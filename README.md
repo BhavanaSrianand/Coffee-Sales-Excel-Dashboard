@@ -1,6 +1,6 @@
 Project Title: Coffee Sales Dashboard
 =
-Level: Intermediate
+Level: Intermediate,
 Data: Coffee Purchase data of 1000 customers across United States, United Kingdom, and Ireland
 
 
@@ -15,7 +15,6 @@ Objectives
 4. Data Visualisation: Create timelines, slicers, line graphs, and bar charts from the pivot table
 5. Dashboard Creation: Organise all the data collected and design the dashboard
 
-Project Structure
 
 Data Base Creation
    =
@@ -33,14 +32,18 @@ Customer's Name, Email ID, and Country columns are filled using X lookup. {Refer
 
 <img width="1580" height="64" alt="image" src="https://github.com/user-attachments/assets/aeff50db-1aa0-4689-8dd5-b5db75ed5bd4" />
 
+
 To get data on the Coffee Type,	Roast Type,	Size, and	Unit Price, we use Index and Match Functions to get all values at once. {Reference sheet in the excel: Products}
 
 <img width="1056" height="99" alt="image" src="https://github.com/user-attachments/assets/09f57083-bb25-467e-ba0a-dae46b46c1a2" />
 
+
 In addition to these column to get the "Full Name" and avoid abbreviations, 2 additional columns are generated for the "Coffee Type" and "Roast Type Name".
 Values are filled using the IF condition.
 
+
 <img width="595" height="59" alt="image" src="https://github.com/user-attachments/assets/8bdcd5fa-eec9-4def-b808-9533fe852d5a" />
+
 
 <img width="621" height="33" alt="image" src="https://github.com/user-attachments/assets/3fdf520a-eec6-44e1-8a61-7fc46bbf8d24" />
 
@@ -53,11 +56,15 @@ Sum of Total Sales of different coffee types over 3 years
 
 <img width="829" height="418" alt="image" src="https://github.com/user-attachments/assets/036326a7-3d1d-4313-a1d9-7ac902d2422d" />
 
+
 <img width="824" height="420" alt="image" src="https://github.com/user-attachments/assets/6cf70057-b98f-4525-9a3b-a204f4fe2e2d" />
+
 
 <img width="823" height="417" alt="image" src="https://github.com/user-attachments/assets/c7306442-4ed3-4026-a7e1-ae0d5c9e74b1" />
 
+
 <img width="818" height="299" alt="image" src="https://github.com/user-attachments/assets/c5181da7-60a8-42e1-904c-10a23fa9c3f4" />
+
 
 Countrywise coffee sales
 
@@ -74,19 +81,26 @@ Create a line graph of the sum of total sales over time. Attach a timeframe to t
 
 <img width="981" height="545" alt="image" src="https://github.com/user-attachments/assets/50ede6f1-6582-409f-93f8-0195d2e4f81f" />
 
+
 <img width="999" height="169" alt="image" src="https://github.com/user-attachments/assets/0e0f0ac6-f714-4832-9c4a-3ceb83b00bfc" />
 
+
 <img width="752" height="571" alt="image" src="https://github.com/user-attachments/assets/b7b7ba68-c1fe-47d7-8629-9666c268c921" />
+
 
 Design 3 slicers to evaluate Roast Type, Coffee size, and Customer Loyalty Card. Customer Lotalty card is an additional column that must be created in the orders sheet
 
 <img width="599" height="95" alt="image" src="https://github.com/user-attachments/assets/3bdceae1-9db5-4936-b6f3-6cc749509398" />
 
+
 <img width="907" height="78" alt="image" src="https://github.com/user-attachments/assets/1dd0bd1d-e575-4835-a77d-f1a694c7af7d" />
+
 
 <img width="356" height="99" alt="image" src="https://github.com/user-attachments/assets/b68063ae-60ad-4362-a502-cfc091a0ffeb" />
 
+
 <img width="523" height="97" alt="image" src="https://github.com/user-attachments/assets/703ffd06-9a39-44f9-8b7b-4d9f3f096298" />
+
 
 Visualise Countrywise sales in ascending order
 
@@ -94,7 +108,7 @@ Visualise Countrywise sales in ascending order
 
 Graphically represent top 5 customers
 
-=<img width="894" height="313" alt="image" src="https://github.com/user-attachments/assets/e5574ba2-91f1-4c7b-a22f-6d272904ed16" />
+<img width="894" height="313" alt="image" src="https://github.com/user-attachments/assets/e5574ba2-91f1-4c7b-a22f-6d272904ed16" />
 
 Dashboard Creation
    =
@@ -111,7 +125,7 @@ Draw inferences from the entire data as well as from the segment wise representa
    =
 Adjust the timeframe, then modifty the slicers accordingly to get accurate representation
 
-8. Conclusion
+Conclusion
    =
 From Data Entry and Organisation, to designing comprehensive dashboards using advanced excel settings, this project helps in learning crucial excel skills that are highly essential for data analytics and visualisation.
 
