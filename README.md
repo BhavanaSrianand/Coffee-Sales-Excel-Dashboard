@@ -1,9 +1,6 @@
 Project Title: Coffee Sales Dashboard
-=
 Level: Intermediate
-Author: Bhavana Srianand
 Data: Coffee Purchase data of 1000 customers across United States, United Kingdom, and Ireland
-=
 
 This project is the replication of Mochen's (@mochen862) "Coffee Orders Project" that was published 2 years ago. 
 The main objective of this project is to sharpen all crucial excel techniques from beginner to the advanced level and adding new perspective to the existing credentials. This project involves setting up a Database, filling values in missing columns (using X Lookup, Index and Match functions), generating a pivot table, analysing different parameters,and creating a comprehensive dashboard. It is ideal for those who wish to generate comprehensive dashboards using excel fundamentals.
